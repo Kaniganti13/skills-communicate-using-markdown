@@ -9,3 +9,13 @@
 # Markdown Images
 
 ![GitHub logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
